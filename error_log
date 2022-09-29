@@ -1,0 +1,10 @@
+[12-May-2022 22:07:27 America/Phoenix] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away in /home2/sycsoft/public_html/tools/rest/tasks8.php:31
+Stack trace:
+#0 /home2/sycsoft/public_html/tools/rest/tasks8.php(31): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/sycsoft/public_html/tools/rest/tasks8.php on line 31
+[17-May-2022 00:39:36 America/Phoenix] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away in /home2/sycsoft/public_html/tools/rest/tasks8.php:31
+Stack trace:
+#0 /home2/sycsoft/public_html/tools/rest/tasks8.php(31): PDOStatement->execute()
+#1 {main}
+  thrown in /home2/sycsoft/public_html/tools/rest/tasks8.php on line 31
